@@ -5,6 +5,7 @@ import nextra from "nextra";
 const withNextra = nextra({
 	theme: "nextra-theme-docs",
 	themeConfig: "./theme.config.jsx",
+	readingTime: true,
 });
 
 export default withNextra({
