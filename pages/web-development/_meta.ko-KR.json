@@ -1,0 +1,18 @@
+{
+	"html": "Html",
+	"css": "Css",
+	"sass": "Sass",
+	"tailwind-css": "Tailwind Css",
+	"bootstrap-css": "Boostrap Css",
+	"javascript": "Javascript",
+	"react": "React JS",
+	"vue": "Vue JS",
+	"angular": "Angular",
+	"next": "Next",
+	"svelte": "Svelte",
+	"nuxt": "Nuxt JS",
+	"remix": "Remix",
+	"solid": "Solid JS",
+	"astro": "Astro JS",
+	"qwik": "Qwik"
+}
